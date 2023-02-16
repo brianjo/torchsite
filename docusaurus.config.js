@@ -14,7 +14,7 @@ const config = {
   url: 'https://your-docusaurus-test-site.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/torchsite/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -101,10 +101,9 @@ const config = {
             label: 'Tutorials',
           },
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
+            href: 'https://github.com/facebook/docusaurus',
             label: 'Docs',
+            position: 'left',
           },
           {
             type: 'doc',
