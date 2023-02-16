@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[989],{2857:e=>{e.exports=JSON.parse('{"title":"Resources","slug":"/category/resources","permalink":"/torchsite/docs/category/resources","navigation":{"previous":{"title":"Ecosystem Tools","permalink":"/torchsite/docs/ecosystem/intro"},"next":{"title":"Resources","permalink":"/torchsite/docs/Resources/intro"}}}')}}]);
