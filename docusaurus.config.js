@@ -78,7 +78,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'ecosystem/intro',
             position: 'left',
             label: 'Ecosystem',
           },
